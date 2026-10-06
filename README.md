@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am an Information Technology graduate and Flutter Developer focused on building responsive, user-centered cross-platform mobile applications.<br> <br>I have practical project experience using Flutter, Dart, Material Design, Provider, GetX, REST APIs, MySQL, and Figma. I have contributed to collaborative mobile projects involving responsive interfaces, API integration, application workflows, and UI/UX design.<br> <br>My key projects include a mobile application for Al-Muqbali Solar Systems, the Adati tool-rental application developed with Flutter and Django, and a cloud-based NFC security system using ESP32, MQTT, and Node-RED.<br> <br>I enjoy transforming requirements and interface designs into clear, functional mobile experiences. I am also familiar with Git, GitHub, Postman, Django, workflow automation using n8n, and IoT prototyping.<br> <br>I am currently seeking opportunities as a Flutter Developer, Mobile Application Developer, or Junior Software Developer where I can contribute to real products and continue developing my technical skills.
 
 
